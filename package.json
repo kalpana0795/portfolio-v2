@@ -6,7 +6,7 @@
   "repository": "https://github.com/HamishMW/portfolio.git",
   "author": "Hamish Williams <hello@hamishw.com>",
   "devDependencies": {
-    "@mapbox/rehype-prism": "^0.8.0",
+    "@mapbox/rehype-prism": "^0.9.0",
     "@storybook/addon-a11y": "^6.5.10",
     "@storybook/addon-actions": "^6.5.10",
     "@storybook/addon-controls": "^6.5.10",
